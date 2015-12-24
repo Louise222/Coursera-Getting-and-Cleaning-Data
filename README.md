@@ -13,5 +13,6 @@ This file describes how run_analysis.R script works.
 * Third, you will find an output file generated in the current working directory:
 tidydata.txt (218.2 kb): it is exactly what I upload for tidy data set created in step 5 of the instructions.
 
+Besides, there is a really useful artical answering most of anonymous questions for this project: https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assignment/
 
 © Yingjie Cao 2015 All Rights reserved.
